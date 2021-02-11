@@ -12,20 +12,20 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: donatesmartphoneindia@gmail.com
+org_street_address: CEHRO #Please include suite number on the line below
+org_address_suite: Near JNU Delhi
+org_city: New Delhi 
+org_state: India
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  110078
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: donatesmartphone.in
+org_facebook_username: donatesmartphone.in
+org_instagram_username: donatesmartphone.in
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
