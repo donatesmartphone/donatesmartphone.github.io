@@ -1,49 +1,3 @@
-## A Free Website Template for Nonprofits
-We want to help introduce the nonprofit community to the powerful world of open source development. Just follow the step-by-step instructions below, and in less than an hour your grassroots nonprofit will have a live, no-cost website complete with online donation capabilities.
-
-But most importantly, by hosting your site and its code on Github you'll allow volunteers to easily contribute to ongoing development of your site.  
-
-___
-#### No Coding Skills Required  
-If you're the type of person that can set up email on your smartphone, you likely have all the skills needed to take advantage of this template. This isn't that hard...you can do it! :smile:
-
-___
-#### Help Others Help You  
-Github makes it crazy simple for people to help with your site. Whether it's volunteers or paid contractors, you're always just a few clicks away from accepting improvements.       
-___
-
-#### Features  
-1. Accept online donations  
-2. Capture email addresses to begin building your supporter database  
-
-#### Demo  
-[https://smartergiving.github.io/free-nonprofit-starter-website/](https://smartergiving.github.io/free-nonprofit-starter-website/)
-
-#### Screenshot  
-![Screenshot](screenshots/screenshot.png?raw=true "Free Nonprofit Starter Template Screenshot")
-___
-#### Benefits  
-1. **Open Source**  
-    Your site and its code will be hosted on Github. This makes it easy for any developer, designer, or copywriter to help customize your site.
-
-2. **Totally Free**  
-    No upfront nor ongoing costs.   
-
-3. **Payments by Stripe**   
-    [Stripe](https://stripe.com/gallery) is used by many [tools for nonprofits](https://stripe.com/docs/integrations#fundraising). When you require a more robust fundraising solution than DonorBox offers, switching is easy.    
-___
-
-### Getting Started  
-*Note:* This project does require rolling up your sleeves a bit. If you're looking for a more user-friendly service (albeit paid), we're big fans of [Squarespace](https://squarespace.com) and [Wix](http://www.wix.com/).  
-#### Overview  
-___
-1. Create Github accounts
-2. Fork the repo
-3. Enter your organization's info in `_config.yml`
-4. Create DonorBox and Stripe accounts (for online donations)  
-5. Create TinyLetter account (for email capture)  
-6. Enter DonorBox and TinyLetter credentials in `_config.yml`
-7. Suggested next steps  
 
 #### Detailed Tutorial
 ___
@@ -132,10 +86,6 @@ ___
 Select an alternative color scheme by changing the `theme:` option in `_config.yml`.  
 
 ![Alternative Themes](screenshots/themes.png?raw=true "Alternative Themes")  
-
-___
-#### Extras  
-If you know a little HTML/CSS, the project is built on Bootstrap and offers the full suite of [Bootstrap components](https://smartergiving.github.io/free-nonprofit-starter-website/components-bootstrap.html)
 ___
 
 
@@ -154,14 +104,9 @@ ___
 
 ___
 
-### Credits  
-Many thanks to [Xiaoying Riley](https://www.linkedin.com/in/xiaoying) of [3rd Wave Media](http://themes.3rdwavemedia.com/) for the wonderful [open source template](http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/) from which this project is based. License: [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/).
-
 ### License
 
 The MIT License (MIT)
-
-Copyright (c) 2015 Chad Kruse, SmarterGiving
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
